@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "Course",
   description: "Created by mtoan",
   icons: {
-    icon: "/next.svg", // Path to your favicon file
+    icon: "/course.svg", // Path to your favicon file
   },
 };
 
