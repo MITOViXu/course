@@ -20,3 +20,6 @@ Welcome to the **Udemy Course Website Clone**, a robust and scalable platform de
 - **Payment Integration**: Stripe API
 - **Cloud Storage**: AWS S3 for storing course content
 - **Version Control**: Git & GitHub
+
+## 🕸 Packages
+npm i react-hot-toast
