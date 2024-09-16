@@ -1,6 +1,6 @@
 # 🎓 Course - Empowering Learning Everywhere
 
-Welcome to the **Udemy Course Website Clone**, a robust and scalable platform designed to mimic the core functionalities of Udemy. This project aims to provide a seamless and intuitive user experience for discovering, enrolling, and managing online courses. 
+Welcome to the **Udemy Course Website Clone**, a robust and scalable platform designed to mimic the core functionalities of Udemy. This project aims to provide a seamless and intuitive user experience for discovering, enrolling, and managing online courses.
 
 ## 🚀 Features
 
@@ -22,6 +22,7 @@ Welcome to the **Udemy Course Website Clone**, a robust and scalable platform de
 - **Version Control**: Git & GitHub
 
 ## 🕸 Packages
+
 npm i react-hot-toast
 npm i prisma
 npx prisma init
@@ -34,4 +35,4 @@ Install and generate Prisma Client
 npm install @prisma/client
 ```
 
-![alt text](/course/public/assets/prisma_client.jpg)
+![prisma client](/course/public/assets/prisma_client.jpg)
