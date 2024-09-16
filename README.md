@@ -36,3 +36,6 @@ npm install @prisma/client
 ```
 
 ![prisma client](/course/public/assets/prisma_client.jpg)
+
+## Route
+![route](/course/public/assets/route.jpg)
