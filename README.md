@@ -23,3 +23,15 @@ Welcome to the **Udemy Course Website Clone**, a robust and scalable platform de
 
 ## 🕸 Packages
 npm i react-hot-toast
+npm i prisma
+npx prisma init
+
+## Connect Prisma with MongoDb
+
+Install and generate Prisma Client
+
+```
+npm install @prisma/client
+```
+
+![alt text](/course/public/assets/prisma_client.jpg)
